@@ -18,7 +18,7 @@
     "joi": "^13.1.0",
     "joi-extension-semver": "^2.0.0",
     "semver": "^7.3.8",
-    "yargs": "^17.3.1"
+    "yargs": "^18.1.0"
   },
   "devDependencies": {
     "jest": "^29.5.0"
